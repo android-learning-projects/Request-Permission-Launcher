@@ -2,4 +2,4 @@
 Here you use registerForActivityResult() method instead onRequestPermissionsResult() as alternative of onRequestPermissionsResult()
 
 ## Output
-![alt text](https://github.com/livin-bad/Request-Permission-Launcher/blob/main/doc/Runtime%20Permission.gif)
+<img src="https://github.com/livin-bad/Request-Permission-Launcher/blob/main/doc/Runtime%20Permission.gif" width="300">
