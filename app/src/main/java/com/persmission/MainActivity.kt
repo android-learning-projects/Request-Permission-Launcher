@@ -9,6 +9,9 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.content.ContextCompat
 import com.persmission.databinding.ActivityMainBinding
 
+/**
+ * Test commit
+ */
 class MainActivity : AppCompatActivity() {
 
     val TAG = javaClass.name
