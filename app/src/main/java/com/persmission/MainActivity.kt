@@ -10,7 +10,7 @@ import androidx.core.content.ContextCompat
 import com.persmission.databinding.ActivityMainBinding
 
 /**
- * Test commit
+ * Test commit v2
  */
 class MainActivity : AppCompatActivity() {
 
